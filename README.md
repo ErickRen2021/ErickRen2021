@@ -15,6 +15,6 @@ Well,Visit my [ZhiHu](https://www.zhihu.com/people/mi-lu-de-wan-ge)
 "Dream pursuers never stop."
 "No one is born noble.We are all only visitors to the earth."
 
-![Karlatemp's github stats](https://github-readme-stats.vercel.app/api?username=Karlatemp&show_icons=true&theme=tokyonight)
+![ErickRen's github stats](https://github-readme-stats.vercel.app/api?username=ErickRen&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlatemp&layout=compact&theme=tokyonight)](https://github.com/Karlatemp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickRen&layout=compact&theme=tokyonight)](https://github.com/ErickRen)
