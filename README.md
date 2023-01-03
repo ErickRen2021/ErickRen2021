@@ -1,12 +1,12 @@
 # Hello
 
-I'm ErickRen, University Student, Developer, .
+I'm ErickRen, University Student, Developer, Game fanatic.
 
 I firmly believe that science and technology can change the world.
 
 I'm crazy about Games, such as Minecraft, CS:GO and Genshin Impact,I learn to code beacuse of Minecraft.
 
-I like watch VTuber live.I like the [星宮汐](https://twitter.com/Hosimiya_Sio),[Alice Mana](https://twitter.com/Alicemana_v) and [兎田ぺこら](https://twitter.com/usadapekora) best,and now I have probably followed over 50 Vtubers and Vups....
+I like watch VTuber live, and now I have probably followed over 50 Vtubers and Vups......
 
 I think technology should promote human happiness rather than become a tool for wealth.
 
